@@ -1,0 +1,77 @@
+#banner-image{
+    padding-top: 75px;
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(../img/intro-bg_6.jpg)no-repeat center center;
+    background-size: cover;
+}
+#banner_content{
+    position: relative;
+    padding-top: 6%;
+    padding-bottom: 6%;
+    margin-top: 12%;
+    margin-bottom: 12%;
+    background-color: rgba(0,0,0,0.7);
+    max-width: 660px;
+   
+    
+}
+
+.navbar-brand{
+    font-size: 20px;
+}
+footer{
+    position: fixed;
+    padding: 10px 0;
+    background-color: #101010;
+    color: #9d9d9d;
+    bottom: 0;
+    width: 100%;
+  
+}
+.row-style{
+    margin-top: 20px;
+}
+#imgs{
+    min-height: 170px;
+}
+.foot{
+    position: absolute;
+}
+.title{
+    position: absolute;
+    top: 40%;
+    bottom: 50%;
+    font-family: sans-serif;
+    
+}
+.fo{
+    position: inherit;
+}
+.jumbotron{
+    background-color: #f6a192;
+}
+.btn-success{
+    background-color: #f6a192;
+    border-color: #f6a192;
+}
+.navbar-inverse{
+    background-color: #800000;
+}
+.panel-success {
+    border-color: #800000;
+    
+}
+.panel-heading{
+    border-color: #f6a192;
+    background-color: #800000;
+    
+}
+.panel-footer{
+    background-color: #800000;
+    border-top-color: #f6a192;
+}
+.panel-success > .panel-heading{
+    background-color: #800000;
+}
